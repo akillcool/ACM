@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="union.cpp">
+    <ClCompile Include="mergelist.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
